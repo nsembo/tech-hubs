@@ -41,7 +41,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [The Smart Hub](http://thesmarthub.com.ng/)
   Suite E16, Emab Plaza, Wuse 2, Abuja
 
-* [Box Office Hub] (https://www.boxofficeng.com)
+* [Box Office Hub](https://www.boxofficeng.com)
   Discovery Centre, 215, Ademola Adetokunbo Crescent, Wuse II, Abuja 
  
 # Abia
@@ -50,8 +50,6 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 * [Rad5 tech Hub](http://rad5.com.ng/)
  4th Floor, 7 Factory Road by Eziukwu Junction Aba, Abia State, Nigeria
-
-
 
 # Akwa Ibom
 * [RootHub](http://www.theroothub.com)
@@ -229,5 +227,5 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 * [SnapiLABs](https://snapilabs.com)
   Pavillon House, East West Road, Alakahia, Port-harcourt
 
-* [KoWorkNG] (https://koworkng.com)
+* [KoWorkNG](https://koworkng.com)
   77, Evo road, Port Harcourt, Rivers State
